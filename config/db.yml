@@ -1,0 +1,6 @@
+development:
+  host: 'localhost'
+  port: '5430'
+  database: 'gps_collector'
+  username: 'gps_collector'
+  password: 'gps_collector'
