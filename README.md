@@ -9,7 +9,7 @@
 * move to the root directory using cd /path_to/buspatrol-gps-collector
 * Type: gem install bundler
 * Type: bundle install
-* Modify the docker compose as per your need such as ports (e.g., 5032:5032)
+* Modify the docker compose as per your need such as ports (e.g., 5432:5432)
 * Type: docker-compose up -d db
 * Type: irb
 * Type (in irb console): require_relative './config/migrations'
